@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "774142068373",
+    "firebase_url": "https://test-inqubate.firebaseio.com",
+    "project_id": "test-inqubate",
+    "storage_bucket": "test-inqubate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774142068373:android:fe6075323096caf57abd9c",
+        "android_client_info": {
+          "package_name": "com.test.waiger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774142068373-pl3u7pvovpk5qmkha9v41f30ojotcdk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHXmSyk-AZYWp9cWUelhrodyYjEtsTRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774142068373-pl3u7pvovpk5qmkha9v41f30ojotcdk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
